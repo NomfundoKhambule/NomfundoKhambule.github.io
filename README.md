@@ -12,6 +12,5 @@
 		<div class = "links-wrapper">
                         <a>Contact me</a>
                 </div>
-
 	</div>
 </body>
