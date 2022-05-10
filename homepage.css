@@ -2,7 +2,7 @@ h1{
 	color:red;
 }
 .hero-section{
-	background-image:url(https://www.google.com/url?sa=i&url=https%3A%2F%2Ffrugalminimalistkitchen.com%2Faesthetic-minimalist-wallpaper-desktop-background%2F&psig=AOvVaw3pj35B0JYBIAXCt2_mAOcK&ust=1652274972275000&source=images&cd=vfe&ved=0CAkQjRxqFwoTCNjRjo2C1fcCFQAAAAAdAAAAABAD);
+	background-image:url("https://www.google.com/url?sa=i&url=https%3A%2F%2Ffrugalminimalistkitchen.com%2Faesthetic-minimalist-wallpaper-desktop-background%2F&psig=AOvVaw3pj35B0JYBIAXCt2_mAOcK&ust=1652274972275000&source=images&cd=vfe&ved=0CAkQjRxqFwoTCNjRjo2C1fcCFQAAAAAdAAAAABAD");
 	padding: 100px;
 	height: 300px;
 }
