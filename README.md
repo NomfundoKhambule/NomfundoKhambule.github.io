@@ -22,6 +22,7 @@
 		<h1>Nomfundo Khambule</h1>
     </div>
 	<div class="hero-section">
+		<h1>There is something here</h1>
 	</div>
 	<div class="about-section">
 		<h2>About</h2>
