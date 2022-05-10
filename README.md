@@ -4,18 +4,18 @@
 <body>
 	<div class = "navigation-wrapper">
 		<ul>
-            <li>
-                <a href = "README.md">Home</a>
+            		<li>
+                		<a href = "README.md">Home</a>
 			</li>
 
 			<li>
 				<a href = "About.md">About Me</a>
 			</li>
 			<li>
-                <a href = "contact.md">Contact Me</a>
-            </li>
+               			 <a href = "contact.md">Contact Me</a>
+            		</li>
 
-        </ul>
+        	</ul>
 	</div>
 	<div class = "header-wrapper">
         <h1>Aspiring Java Systems developer</h1>
