@@ -1,3 +1,6 @@
+<head>
+	<link rel ="stylesheet" href="homepage.css">
+</head>
 <body>
 	<div class = "navigation-wrapper">
 		<ul>
@@ -40,8 +43,3 @@
 	</div>	
 
 </body>
-<style>
-	h1{
-		color:red;
-	}
-</style>
