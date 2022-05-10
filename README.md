@@ -41,6 +41,6 @@
 
 </body>
 <style>
-	.hero-section{
-		background-image: https://www.google.com/url?sa=i&url=https%3A%2F%2Ffrugalminimalistkitchen.com%2Faesthetic-minimalist-wallpaper-desktop-background%2F&psig=AOvVaw3B6rglPhTCUP2XxB3GdQV8&ust=1652273226010000&source=images&cd=vfe&ved=0CAkQjRxqFwoTCIipsNH71PcCFQAAAAAdAAAAABAD;
+	h1{
+		color:red;
 </style>
