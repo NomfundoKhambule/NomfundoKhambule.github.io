@@ -1,8 +1,25 @@
 <body>
+	<div class = "navigation-wrapper">
+		<ul>
+			 <li>
+                                <a href = "README.md">Home</a>
+			</li>
+
+			<li>
+				<a href = "About.md">About Me</a>
+			</li>
+			 <li>
+                                <a href = "contact.md">Contact Me</a>
+                        </li>
+
+		</ul>
+	</div>
 	<div class = "header-wrapper">
                 <h1>Aspiring Java Systems developer</h1>
 		<h1>Nomfundo Khambule</h1>
         </div>
+	<div class="hero-section">
+	</div>
 	<div class="about-section">
 		<h2>About</h2>
 		<p>
@@ -23,3 +40,7 @@
 	</div>	
 
 </body>
+<style>
+	.hero-section{
+		background-image: https://www.google.com/url?sa=i&url=https%3A%2F%2Ffrugalminimalistkitchen.com%2Faesthetic-minimalist-wallpaper-desktop-background%2F&psig=AOvVaw3B6rglPhTCUP2XxB3GdQV8&ust=1652273226010000&source=images&cd=vfe&ved=0CAkQjRxqFwoTCIipsNH71PcCFQAAAAAdAAAAABAD;
+</style>
