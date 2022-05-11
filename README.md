@@ -17,10 +17,6 @@
 
         	</ul>
 	</div>
-	<div class = "header-wrapper">
-        <h1>Aspiring Java Systems developer</h1>
-		<h1>Nomfundo Khambule</h1>
-    </div>
 	<div class="hero-section">
 		<h1>There is something here</h1>
 	</div>
