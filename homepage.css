@@ -1,14 +1,14 @@
 .navigation-wrapper{
 	height:190px;
-	background-color: #11122b;
-	color: #cbcbcb;
+	background-color: #ffcba4;
+	color: #7fffd4;
 	display: flex;
 	justify-content: space-between;
 	align-items: center;
 	padding: 60px 100px;
 }
 h1{
-	color:blue;
+	color:#7fffd4;
 }
 .hero-section{
 	background-image:url(https://c0.wallpaperflare.com/preview/448/973/161/keyboard-tech-minimalist-minimalism.jpg);
