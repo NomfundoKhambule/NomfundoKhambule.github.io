@@ -3,17 +3,26 @@
 </head>
 <body>
 	<div class = "navigation-wrapper">
-		<ul>
-            		<li>
-                		<a href = "README.md">Home</a>
-			</li>
-
-			<li>
-				<a href = "About.md">About Me</a>
-			</li>
-			<li>
-               			 <a href = "contact.md">Contact Me</a>
-            		</li>
+		<div class="left-column">
+           		<div class="icon">
+                		<i class="fas fa-phone-volume"></i>
+            		</div>
+            		<div class="contact-wrapper">
+                		<div class="phone">065 738 5461</div>
+                		<div class="email">nomfundo.khambule@umuzi.org</div>
+            		</div>
+        	</div>
+			<ul>
+            			<li>
+                			<a href = "README.md">Home</a>
+				</li>
+	
+				<li>
+					<a href = "About.md">About Me</a>
+				</li>
+				<li>
+               				 <a href = "contact.md">Contact Me</a>
+            			</li>
 
         	</ul>
 	</div>
