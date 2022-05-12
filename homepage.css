@@ -1,4 +1,4 @@
-.navigation-wrapper{
+nav{
 	height:190px;
 	background-color: #ffcba4;
 	color: #7fffd4;
@@ -11,11 +11,29 @@
 	display: flex;
 	align-items: center;
 }
-.left-column> .icon{
-	margin-right: 15px;
+img{
+    max-width: 40%;
+    border-radius: 200px;
+    margin-right: 15px;
+    
+}
+.center-column
+{
+    display: grid;
+    width: 500px;
+}
+.links-wrapper{
+    display:flex;
+    justify-content:space-between;
+    align-items: center;
+
+}
+.right-column{
+    display:flex;
+    align-items:center;
 }
 h1{
-	color:#7fffd4;
+	color:black;
 }
 .hero-section{
 	background-image:url(https://c0.wallpaperflare.com/preview/448/973/161/keyboard-tech-minimalist-minimalism.jpg);

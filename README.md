@@ -1,54 +1,38 @@
+<!DOCTYPE html>
+<html>
 <head>
-	<link rel ="stylesheet" href="homepage.css">
+    <link rel ="stylesheet" href="homepage.css">
 	<link  rel="stylesheet"
     href="https://use.fontawesome.com/releases/v5.13.0/css/all.css"
     integrity="sha384-Bfad6CLCknfcloXFOyFnlgtENryhrpZCe29RTifKEixXQZ38WheV+i/6YWSzkz3V" crossorigin="anonymous">
 </head>
 <body>
-	<div class = "navigation-wrapper">
-		<div class="left-column">
-           		<div class="icon">
-                		<i class="fas fa-phone-volume"></i>
-            		</div>
-            		<div class="contact-wrapper">
-                		<div class="phone">065 738 5461</div>
-                		<div class="email">nomfundo.khambule@umuzi.org</div>
-            		</div>
-        	</div>
-			<ul>
-            			<li>
-                			<a href = "README.md">Home</a>
-				</li>
-	
-				<li>
-					<a href = "About.md">About Me</a>
-				</li>
-				<li>
-               				 <a href = "contact.md">Contact Me</a>
-            			</li>
-
-        	</ul>
-	</div>
-	<div class="hero-section">
-		<h1>There is something here</h1>
-	</div>
-	<div class="about-section">
-		<h2>About</h2>
-		<p>
-			Hello my name is Nomfundo Khambule I am an aspiring java systems   developer who has acquired skills in responsive web design and Javascript which has equipped me with
-			problem solving skills and coding knowledge. I am passionate about technological advancements in developing countries,
-			creating solutions to better our communities and thus would like to be a part of a team that is at the forefront of new innovations.
-		</p>
-		<h3>Education</h3>
-		<p>
-			Umuzi Academy 
-			Mar 2022-PRESENT 
-			National Certificate in Information Technology 
-			(Systems Development) 
-			Dowerglen High School 
-			2014
-		</p> 
-
-	</div>	
-
+    <nav>
+        <section class="left-column">
+            <img src="https://uploads-ssl.webflow.com/5fa2a6e09e802483addc8578/614856d8483126bae3d203fc_Nomfundo-Khambule.jpg" alt="Picture of Nomfundo">
+        </section>
+        <section class="center-column">
+            <div class="links-wrapper">
+                <a href = "index.html">Home</a>
+                <a href="about.html">About Me</a>
+                <a href="contact.html">Contact Me</a>
+            </div>        
+        </section>
+        <section class="right-column">
+            <i class="fas fa-phone-volume"></i>
+            <section class="phone-email">
+                <p>065 738 5461</p>
+                <p>nomfundo.khambule@umuzi.org</p>
+            </section>   
+        </section>
+    </nav>
+    <section class="hero-section">
+        <header class="heading">
+            <h1>Hello I am Nomfundo Khambule</h1>
+        </header>
+        <header class="bottom-heading">
+            <h3>I am an aspiring Java Systems Developer.</h3>
+        </header>
+    </section>
 </body>
+</html>
