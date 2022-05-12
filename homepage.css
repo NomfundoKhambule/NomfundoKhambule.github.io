@@ -65,12 +65,13 @@ h1{
 }
 .skills-section{
     height:400px;
-    background-color:#00CED1;
+    background-color:#008B8B;
    
     
 }
 .skills-images{
-     display: flex;
+    margin-top:40px;
+    display: flex;
     justify-content: center;
 }
 .css-image{
