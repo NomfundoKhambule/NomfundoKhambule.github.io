@@ -25,7 +25,6 @@ header h1 {
 .contact-section{
     margin-top:50px;
     display:grid;
-    grid-template-columns: 1fr 1fr;
     
 }
 .fas{
@@ -47,6 +46,7 @@ header h1 {
 }
 .instagram{
     margin-top:50px;
+    margin-bottom:50px;
 }
 
 .footer{
