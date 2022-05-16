@@ -1,27 +1,3 @@
-header {
-  position: relative;
-  height: 300px;
-  background-image: url(https://64.media.tumblr.com/18f631f049bb79f04701a1f5596ba4e9/e97376a3ef6c16df-1f/s500x750/5f5d6209a985c43762f1f337157e50067aa69da3.jpg);
-}
-h1 {
-  margin: 0;
-  padding: 100px 0;
-  font: 44px "Arial";
-  text-align: center;
-}
-
-header h1 {
-  color: white;
-}
-
-.divider {
-  position: absolute;
-  bottom: 0;
-  left: 0;
-  right: 0;
-  width: 100%;
-  height: 100px;
-}
 .contact-section{
     margin-top:50px;
     display:grid;
@@ -49,22 +25,4 @@ header h1 {
     margin-bottom:50px;
 }
 
-.footer{
-	height:190px;
-	background-color: #ffcba4;
-	color: black;
-	display: flex;
-	justify-content: space-between;
-	align-items: center;
-	padding: 60px 100px;
-}
-.profile{
-    width:100px;
-    border-radius:50%;
-    margin-left:-85px;
-}
-.links-wrapper{
-    display:flex;
-    justify-content:space-between;
-    margin-left: 35px;
-}
+
