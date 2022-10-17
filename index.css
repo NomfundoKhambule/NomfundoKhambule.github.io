@@ -2,6 +2,7 @@
 	background-color: #1c1c1c;
     display:grid;
     height:500px;
+    width:100%;
     grid-template-columns: 1fr 1fr;
     align-items: center;
     
@@ -75,24 +76,48 @@ a:hover{
     align-content: space-between;
     
 }
-h1{
-    
+h3{
+    font-size:12px;
+    margin-top:-8px;
+}
+p{
+    font-size:12px;
+    margin-top:-8px;
+}
+.bars{
+    display:grid;
+    justify-content:center;
+}
+.fa-solid{
+    font-size:30px;
+    color:orange;
+}
+.statement-heading{
+    display:grid;
+    justify-content:center;
+    font-size:10px;
+}
+.education-heading{
+    display:grid;
+    justify-content:center;
+    font-size:10px;
 }
 .personal-statement{
-    background-color:orange;
+    background-color:#1c1c1c;
+    color:white;
     border-radius:3%;
-    margin-right:10px;
     display:grid;
-    align-items:center;
-    padding: 10px 27px;
+    padding: 8px 15px;
+    justify-content:center;
 }
 .education{
-    background-color:orange;
+    background-color:#1c1c1c;
+    color:white;
     border-radius:3%;
-    margin-right:10px;
     display:grid;
-    align-items:center;
-    padding: 10px 27px;
+    margin-left:4px;
+    padding: 8px 15px;
+    justify-content:center;
 }
 .skills{
     width:100%;
