@@ -5,6 +5,9 @@
     align-items:center;
     color:white;    
 }
+.main{
+    font-family:'Ubuntu',sans-serif;
+}
 .heading{
     display:grid;
     justify-content:center;

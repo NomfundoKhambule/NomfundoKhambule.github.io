@@ -58,10 +58,11 @@ nav{
 }
 .main{
     margin-top: 50px;
+    font-family:'Ubuntu',sans-serif;
 
 }
 a{
-    font-family:'Ubuntu Condnsed',sans-serif;
+    font-family:'Ubuntu',sans-serif;
     color:black;
     text-decoration: none;
     transition:0.5s;
@@ -86,11 +87,11 @@ a:hover{
     
 }
 h3{
-    font-size:18px;
+    font-size:16px;
     margin-top:-8px;
 }
 p{
-    font-size:17px;
+    font-size:15px;
     margin-top:-8px;
 }
 .bars{
@@ -104,12 +105,12 @@ p{
 .statement-heading{
     display:grid;
     justify-content:center;
-    font-size:13px;
+    font-size:11px;
 }
 .education-heading{
     display:grid;
     justify-content:center;
-    font-size:13px;
+    font-size:11px;
 }
 .personal-statement{
     background-color:orange;
@@ -132,8 +133,7 @@ p{
     width:100%;
     display:grid;
     justify-content:center;
-    margin-top:30px;
-    margin-bottom:50px;
+    
 }
 .my-skills{
     display:grid;
@@ -161,12 +161,16 @@ p{
     margin-left:-50px;
 }
 .interests{
-    height:200px;
+    height:150px;
     margin-top:15px;
     background-color: #1c1c1c;
     display:grid;
     align-items: center;
     color:white;
     padding: 10px 27px;
+}
+.contact{
+    margin-left:-5px;
+    margin-top:-10px;
 }
 
